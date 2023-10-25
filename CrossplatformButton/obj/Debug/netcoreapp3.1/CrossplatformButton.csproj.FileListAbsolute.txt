@@ -1,0 +1,16 @@
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.csproj.AssemblyReference.cache
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.Form1.resources
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.csproj.GenerateResource.cache
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.AssemblyInfoInputs.cache
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.AssemblyInfo.cs
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.csproj.CoreCompileInputs.cache
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\bin\Debug\netcoreapp3.1\CrossplatformButton.exe
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\bin\Debug\netcoreapp3.1\CrossplatformButton.deps.json
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\bin\Debug\netcoreapp3.1\CrossplatformButton.runtimeconfig.json
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\bin\Debug\netcoreapp3.1\CrossplatformButton.runtimeconfig.dev.json
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\bin\Debug\netcoreapp3.1\CrossplatformButton.dll
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\bin\Debug\netcoreapp3.1\CrossplatformButton.pdb
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.dll
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.pdb
+C:\Users\dligh\Desktop\CrossplatformButton\CrossplatformButton\obj\Debug\netcoreapp3.1\CrossplatformButton.genruntimeconfig.cache
